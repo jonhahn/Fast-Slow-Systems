@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/testQuadraticPoincare.dir/src/variationalPoincare/quadratic.c.o  -o testQuadraticPoincare  liblibrary.a -lm 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/core/outputJson.h
+
+../inc/core/rk45.h
+
+/Users/jonathanhahn/Thesis/Code/src/tests/testVanDerPol.c
+stdio.h
+-
+math.h
+-
+sys/time.h
+-
+core/outputJson.h
+/Users/jonathanhahn/Thesis/Code/src/tests/core/outputJson.h
+core/rk45.h
+/Users/jonathanhahn/Thesis/Code/src/tests/core/rk45.h
+

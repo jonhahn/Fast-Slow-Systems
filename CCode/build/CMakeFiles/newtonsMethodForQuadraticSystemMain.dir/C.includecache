@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/core/outputJson.h
+
+../inc/core/rk45.h
+
+../inc/core/systems.h
+
+../inc/newtonsMethodForQuadraticSystem.h
+
+/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/newtonsMethodForQuadraticSystemMain.c
+stdio.h
+-
+math.h
+-
+sys/time.h
+-
+core/systems.h
+/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/core/systems.h
+core/outputJson.h
+/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/core/outputJson.h
+core/rk45.h
+/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/core/rk45.h
+newtonsMethodForQuadraticSystem.h
+/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/newtonsMethodForQuadraticSystem.h
+

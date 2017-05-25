@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/jonathanhahn/Thesis/Code",
+  "command": "/usr/bin/gcc   -I/Users/jonathanhahn/Thesis/Code/inc   -Wall -g3 -gdwarf-2   -std=gnu99 -o CMakeFiles/vanDerPolPoincare.dir/src/poincare/vanDerPolPoincare.c.o   -c /Users/jonathanhahn/Thesis/Code/src/poincare/vanDerPolPoincare.c",
+  "file": "/Users/jonathanhahn/Thesis/Code/src/poincare/vanDerPolPoincare.c"
+},
+{
+  "directory": "/Users/jonathanhahn/Thesis/Code",
+  "command": "/usr/bin/gcc   -I/Users/jonathanhahn/Thesis/Code/inc   -Wall -g3 -gdwarf-2   -std=gnu99 -o CMakeFiles/testVanDerPol.dir/src/testVanDerPol.c.o   -c /Users/jonathanhahn/Thesis/Code/src/testVanDerPol.c",
+  "file": "/Users/jonathanhahn/Thesis/Code/src/testVanDerPol.c"
+},
+{
+  "directory": "/Users/jonathanhahn/Thesis/Code",
+  "command": "/usr/bin/gcc   -I/Users/jonathanhahn/Thesis/Code/inc   -Wall -g3 -gdwarf-2   -std=gnu99 -o CMakeFiles/library.dir/src/rk45.c.o   -c /Users/jonathanhahn/Thesis/Code/src/rk45.c",
+  "file": "/Users/jonathanhahn/Thesis/Code/src/rk45.c"
+},
+{
+  "directory": "/Users/jonathanhahn/Thesis/Code",
+  "command": "/usr/bin/gcc   -I/Users/jonathanhahn/Thesis/Code/inc   -Wall -g3 -gdwarf-2   -std=gnu99 -o CMakeFiles/library.dir/src/outputJson.c.o   -c /Users/jonathanhahn/Thesis/Code/src/outputJson.c",
+  "file": "/Users/jonathanhahn/Thesis/Code/src/outputJson.c"
+},
+{
+  "directory": "/Users/jonathanhahn/Thesis/Code",
+  "command": "/usr/bin/gcc   -I/Users/jonathanhahn/Thesis/Code/inc   -Wall -g3 -gdwarf-2   -std=gnu99 -o CMakeFiles/library.dir/src/parson/parson.c.o   -c /Users/jonathanhahn/Thesis/Code/src/parson/parson.c",
+  "file": "/Users/jonathanhahn/Thesis/Code/src/parson/parson.c"
+}
+]

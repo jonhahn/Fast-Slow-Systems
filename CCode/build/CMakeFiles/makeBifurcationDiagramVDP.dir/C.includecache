@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/core/outputJson.h
+
+../inc/core/rk45.h
+
+../inc/core/systems.h
+
+/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/makeBifurcationDiagram.c
+stdio.h
+-
+math.h
+-
+sys/time.h
+-
+core/systems.h
+/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/core/systems.h
+core/outputJson.h
+/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/core/outputJson.h
+core/rk45.h
+/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/core/rk45.h
+

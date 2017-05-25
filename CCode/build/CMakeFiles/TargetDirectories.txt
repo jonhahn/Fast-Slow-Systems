@@ -1,0 +1,10 @@
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/onePeriod.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/basinOfAttraction.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/rebuild_cache.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/newtonsMethodForQuadraticSystemMain.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/edit_cache.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/makeBifurcationDiagramVDP.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/testQuadraticPoincare.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/vanDerPolPoincare.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/testVanDerPol.dir
+/Users/jonathanhahn/Thesis/Code/build/CMakeFiles/library.dir

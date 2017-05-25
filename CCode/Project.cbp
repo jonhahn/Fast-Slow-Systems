@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="Project" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="onePeriod">
+         <Option output="/Users/jonathanhahn/Thesis/Code/onePeriod" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 onePeriod" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="onePeriod/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/onePeriod" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 onePeriod/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="basinOfAttraction">
+         <Option output="/Users/jonathanhahn/Thesis/Code/basinOfAttraction" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 basinOfAttraction" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="basinOfAttraction/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/basinOfAttraction" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 basinOfAttraction/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="newtonsMethodForQuadraticSystemMain">
+         <Option output="/Users/jonathanhahn/Thesis/Code/newtonsMethodForQuadraticSystemMain" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 newtonsMethodForQuadraticSystemMain" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="newtonsMethodForQuadraticSystemMain/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/newtonsMethodForQuadraticSystemMain" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 newtonsMethodForQuadraticSystemMain/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="makeBifurcationDiagramVDP">
+         <Option output="/Users/jonathanhahn/Thesis/Code/makeBifurcationDiagramVDP" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 makeBifurcationDiagramVDP" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="makeBifurcationDiagramVDP/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/makeBifurcationDiagramVDP" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 makeBifurcationDiagramVDP/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testQuadraticPoincare">
+         <Option output="/Users/jonathanhahn/Thesis/Code/testQuadraticPoincare" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 testQuadraticPoincare" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testQuadraticPoincare/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/testQuadraticPoincare" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 testQuadraticPoincare/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="vanDerPolPoincare">
+         <Option output="/Users/jonathanhahn/Thesis/Code/vanDerPolPoincare" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 vanDerPolPoincare" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="vanDerPolPoincare/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/vanDerPolPoincare" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 vanDerPolPoincare/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testVanDerPol">
+         <Option output="/Users/jonathanhahn/Thesis/Code/testVanDerPol" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 testVanDerPol" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testVanDerPol/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/testVanDerPol" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 testVanDerPol/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="library">
+         <Option output="/Users/jonathanhahn/Thesis/Code/liblibrary.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 library" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="library/fast">
+         <Option output="/Users/jonathanhahn/Thesis/Code/liblibrary.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/jonathanhahn/Thesis/Code" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/jonathanhahn/Thesis/Code/inc" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 library/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/jonathanhahn/Thesis/Code/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/inc/core/outputJson.h">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/inc/core/parson/parson.h">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/inc/core/rk45.h">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/inc/core/systems.h">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/inc/newtonsMethodforQuadraticSystem.h">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/makeBifurcationDiagram.c">
+         <Option target="makeBifurcationDiagramVDP"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/VDPpoincare/vanDerPolPoincare.c">
+         <Option target="vanDerPolPoincare"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/core/outputJson.c">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/core/parson/parson.c">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/core/rk45.c">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/core/systems.c">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/tests/testVanDerPol.c">
+         <Option target="testVanDerPol"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/basinOfAttraction.c">
+         <Option target="basinOfAttraction"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/newtonsMethodForQuadraticSystemMain.c">
+         <Option target="newtonsMethodForQuadraticSystemMain"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/newtonsMethodforQuadraticSystem.c">
+         <Option target="library"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/onePeriod.c">
+         <Option target="onePeriod"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/src/variationalPoincare/quadratic.c">
+         <Option target="testQuadraticPoincare"/>
+      </Unit>
+      <Unit filename="/Users/jonathanhahn/Thesis/Code/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
